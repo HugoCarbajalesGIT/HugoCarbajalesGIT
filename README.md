@@ -42,4 +42,3 @@ My main focus is completing my degree at the **Escuela de Ingeniería Informáti
 
 ![Hugo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GitHCQ&show_icons=true&theme=github_dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitHCQ&layout=compact&theme=github_dark)
-![GitHub Streak](https://streak-stats.demolab.com?user=GitHCQ&theme=github-dark&hide_border=false)
